@@ -1,0 +1,7 @@
+{
+  "name": "TALKIE-RJ 3",
+  "description": "Aplicación táctica de walkie-talkie para comunicación directa entre usuarios en salas seguras, con modo manos libres y texto a voz integrado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
