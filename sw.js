@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'talkie-rj-v4'; // Incrementamos versión a v4
+const CACHE_NAME = 'talkie-rj-v11'; // Incrementamos versión a v11
 
 self.addEventListener('install', (event) => {
   self.skipWaiting(); // Forzar activación inmediata
